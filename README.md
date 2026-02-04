@@ -1,16 +1,15 @@
 # Simple Interest Calculator
 
-This project explains how to calculate simple interest.
+This project calculates simple interest using the formula:
 
-## Formula
-Simple Interest (SI) = (Principal × Rate × Time) / 100
+SI = (Principal * Rate * Time) / 100
 
-## Example
-- Principal: 10,000
-- Rate: 5% per year
-- Time: 2 years
-
-Simple Interest = (10,000 × 5 × 2) / 100 = 1,000
+- **Principal (P)**: The initial amount of money
+- **Rate (R)**: The interest rate per year
+- **Time (T)**: Time in years
 
 ## Usage
-This calculator helps users understand how simple interest is calculated using basic financial values.
+
+1. Open the program
+2. Input Principal, Rate, and Time
+3. Get the Simple Interest calculated
